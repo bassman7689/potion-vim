@@ -19,5 +19,4 @@ function! PotionShowBytecode()
 endfunction
 
 nnoremap <buffer> <localleader>r :call PotionCompileAndRunFile()<cr>
-
 nnoremap <buffer> <localleader>b :call PotionShowBytecode()<cr>
