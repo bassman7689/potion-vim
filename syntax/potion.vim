@@ -6,7 +6,7 @@ syntax keyword potionKeyword loop times to while
 syntax keyword potionKeyword if elsif else
 syntax keyword potionKeyword class return
 
-sytnax keyword potionFunction print join string
+syntax keyword potionFunction print join string
 
 highlight link potionKeyword Keyword
 highlight link potionFunction Function
